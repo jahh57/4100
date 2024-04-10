@@ -3,7 +3,7 @@
 A portfolio of all assingments completed for ANLY-4100
 ## Resume
 ---
-*[Resume](https://colab.research.google.com/drive/1JiXbqsxj8c52Xi5eiqnr7DLGXh3bnJCT?usp=share_link)
+- [Resume](https://colab.research.google.com/drive/1JiXbqsxj8c52Xi5eiqnr7DLGXh3bnJCT?usp=share_link)
 
 ## Table of Contents
 1. **Module 1: Using Colab**
@@ -25,4 +25,4 @@ A portfolio of all assingments completed for ANLY-4100
    - A6 Segmentation (retail transactions and behavioral segmentation)
    
 7. **Module 7: Use GitHub to Create Your Assignment Portfolio**
-   - A7 [List Your Data Analytics Skills](https://github.com/alexanderresearch/Analytics/edit/main/README.md)
+   - A7 [List Your Data Analytics Skills](https://github.com/jahh57/4100)
